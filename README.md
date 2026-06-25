@@ -14,3 +14,24 @@ I'm a self-taught software developer who officially jumped into the deep end of 
 * ☕ **Fueled by:** Curiosity, way too many questions, and entirely too much caffeine.
 
 Feel free to check out my repositories and see what I'm working on!
+
+<br>
+
+<div align="center">
+  <!-- Gmail Badge (Updated to Modern Brand Red) -->
+  <a href="mailto:victor.evolving@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/victor-arellano-evolving" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- Substack Badge -->
+  <a href="https://substack.com/@evolving2code?utm_source=share&utm_medium=android&r=8dl0cf" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+  </a>
+</div>
+
+<hr>
