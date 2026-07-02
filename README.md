@@ -54,18 +54,16 @@ Feel free to check out my repositories and see what I'm working on!
 <div align="center">
   <!-- General Stats Card -->
   <a href="https://github.com/Evolving2Code">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=Evolving2Code&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Evolving2Code's GitHub Stats" />
+    <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=Evolving2Code&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Evolving2Code's GitHub Stats" />
   </a>
   
-  <!-- Contribution Streak Card -->
+  <!-- Contribution Streak Card (Kept identical as it works) -->
   <a href="https://github.com/Evolving2Code">
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Evolving2Code&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Evolving2Code's Contribution Streak" />
   </a>
   
   <!-- Top Languages Card -->
   <a href="https://github.com/Evolving2Code">
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Evolving2Code&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Evolving2Code's Most Used Languages" />
+    <img width="325" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Evolving2Code&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Evolving2Code's Most Used Languages" />
   </a>
 </div>
-
-<hr>
