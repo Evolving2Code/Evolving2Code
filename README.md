@@ -42,7 +42,7 @@ Feel free to check out my repositories and see what I'm working on!
 
 <p align="center">
   <!-- The style attribute below prevents the image from being clicked or opened -->
-  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,supabase" alt="My Skills" style="pointer-events: none;" />
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,vercel,nextjs,react,supabase" alt="My Skills" style="pointer-events: none;" />
 </p>
 
 <hr>
