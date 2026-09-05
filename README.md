@@ -2,7 +2,7 @@
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Evolving2Code&color=blue" alt="Visitor's Count" />
 </div>
-<img src="https://github.com/Evolving2Code/Evolving2Code/blob/main/Vibes.jpeg" alt="Banner">
+<img src="https://github.com/Evolving2Code/Evolving2Code/blob/d2586c37e26ff8528ea60f29c489537add047cd6/Night_Landscape.jpg" alt="Banner">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+World!+👋;+I'm+Victor!;" />
 </h1>
